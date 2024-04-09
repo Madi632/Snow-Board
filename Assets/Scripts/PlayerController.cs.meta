@@ -1,0 +1,12 @@
+fileFormatVersion: 2
+guid: e95b50e71a35f4668b24f4fb2740792a
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - boostSFX: {fileID: 8300000, guid: cea9048d0af704ff196c5d78df54eeaf, type: 3}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
